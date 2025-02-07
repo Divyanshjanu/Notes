@@ -1,2 +1,3 @@
 # Notes
-My first repository on Github which have notes in it. 
+My first repository is on GitHub, and it has notes in it. 
+Owner - Divyansh Janu
